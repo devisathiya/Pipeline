@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="language_Switch" data-name="language Switch" transform="translate(-1041 -405)">
+    <path id="Path_62399" data-name="Path 62399" d="M0,0H50V50H0Z" transform="translate(1041 405)" fill="none"/>
+    <g id="Group_18205" data-name="Group 18205" transform="translate(-6.453 2.469)">
+      <g id="Ellipse_53" data-name="Ellipse 53" transform="translate(1050.453 405.531)" fill="none" stroke="#fff" stroke-width="2">
+        <circle cx="22" cy="22" r="22" stroke="none"/>
+        <circle cx="22" cy="22" r="21" fill="none"/>
+      </g>
+      <g id="Ellipse_289" data-name="Ellipse 289" transform="translate(1063.453 405.531)" fill="none" stroke="#fff" stroke-width="2">
+        <ellipse cx="9" cy="22" rx="9" ry="22" stroke="none"/>
+        <ellipse cx="9" cy="22" rx="8" ry="21" fill="none"/>
+      </g>
+      <line id="Line_460" data-name="Line 460" x2="44.157" transform="translate(1050.453 427.982)" fill="none" stroke="#fff" stroke-width="2"/>
+      <line id="Line_461" data-name="Line 461" x2="36.948" transform="translate(1054.057 416.266)" fill="none" stroke="#fff" stroke-width="2"/>
+      <line id="Line_462" data-name="Line 462" x2="36.047" transform="translate(1054.057 439.697)" fill="none" stroke="#fff" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+  <g id="avatar" transform="translate(-1122 -409)">
+    <circle id="Ellipse_854" data-name="Ellipse 854" cx="22" cy="22" r="22" transform="translate(1122 409)" fill="rgba(255,255,255,0.1)"/>
+    <g id="Profile" transform="translate(1129 416)">
+      <path id="Path_2203" data-name="Path 2203" d="M16.586,16.586a6.293,6.293,0,1,0-6.293-6.293A6.291,6.291,0,0,0,16.586,16.586Zm0,3.147C12.386,19.733,4,21.841,4,26.026v3.147H29.172V26.026C29.172,21.841,20.787,19.733,16.586,19.733Z" transform="translate(-1.586 -1.586)" fill="#fff"/>
+      <path id="Path_2204" data-name="Path 2204" d="M0,0H30V30H0Z" fill="none"/>
+    </g>
+    <g id="Ellipse_53" data-name="Ellipse 53" transform="translate(1122 409)" fill="none" stroke="#fff" stroke-width="2">
+      <circle cx="22" cy="22" r="22" stroke="none"/>
+      <circle cx="22" cy="22" r="21" fill="none"/>
+    </g>
+  </g>
+</svg>

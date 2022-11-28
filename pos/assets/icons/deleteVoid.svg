@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="47" viewBox="0 0 50 47">
+  <g id="Delete_Void" data-name="Delete/Void" transform="translate(-674 -538)">
+    <g id="Primary_007BFF" data-name="Primary / #007BFF" transform="translate(674 538)" fill="rgba(233,80,79,0.1)" stroke="#e9504f" stroke-width="1">
+      <rect width="50" height="47" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="49" height="46" rx="4.5" fill="none"/>
+    </g>
+    <g id="baseline-delete-24px" transform="translate(678 541)">
+      <path id="Path_221" data-name="Path 221" d="M7,32.867A3.885,3.885,0,0,0,11,36.6H27a3.885,3.885,0,0,0,4-3.733v-22.4H7Zm26-28H26L24,3H14L12,4.867H5V8.6H33Z" transform="translate(2 1.2)" fill="#e9504f"/>
+      <path id="Path_222" data-name="Path 222" d="M0,0H42V42H0Z" fill="none"/>
+    </g>
+  </g>
+</svg>

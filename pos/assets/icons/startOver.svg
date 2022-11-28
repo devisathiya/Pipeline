@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Start_Over" data-name="Start Over" transform="translate(-745 -128)">
+    <g id="Rectangle_98" data-name="Rectangle 98" transform="translate(745 128)" fill="#f5ece7" stroke="#704332" stroke-width="1">
+      <rect width="40" height="40" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="39" rx="4.5" fill="none"/>
+    </g>
+    <path id="ic_cached_24px" d="M27.1,9.8l-5.8,5.8h4.351a8.708,8.708,0,0,1-8.7,8.7,8.513,8.513,0,0,1-4.061-1.015L10.774,25.4a11.581,11.581,0,0,0,17.779-9.8H32.9ZM8.251,15.6a8.708,8.708,0,0,1,8.7-8.7,8.513,8.513,0,0,1,4.061,1.015L23.13,5.8A11.581,11.581,0,0,0,5.351,15.6H1l5.8,5.8,5.8-5.8Z" transform="translate(748 132)" fill="#704332"/>
+  </g>
+</svg>

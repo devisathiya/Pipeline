@@ -1,0 +1,23 @@
+export enum userPermission{
+    saleInvoice = 'A',
+    returnInvoice = 'A',
+    reloadInvoice = 'A',
+    floatIn = 'A',
+    floatOut = 'A',
+    itemVoid = 'D',
+    voidAll = 'D',
+    openDrawerBox = 'A',
+    rePrint = 'A',
+    itemSearch = 'D',
+    holdInvoice = 'A',
+    releaseInvoice = 'A',
+    writeNotes = 'D',
+    changeQty = 'D',
+    cancelOrder = 'D',
+    selectOrder = 'D',
+    splitInvoice = 'A',
+    headerDiscount = 'A',
+    linkItemNotes = 'D',
+    linkItemFree = 'D',
+    linkItemCharge = 'D' //Not available for Waiter
+}

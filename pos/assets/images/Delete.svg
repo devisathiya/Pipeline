@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Delete" transform="translate(-10899 -5326)">
+    <g id="Primary_007BFF" data-name="Primary / #007BFF" transform="translate(10899 5326)" fill="rgba(155,111,95,0.1)" stroke="#9b6f5f" stroke-width="1">
+      <rect width="40" height="40" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="39" rx="4.5" fill="none"/>
+    </g>
+    <path id="Path_221" data-name="Path 221" d="M6.512,28.9a3.146,3.146,0,0,0,3.025,3.237h12.1A3.146,3.146,0,0,0,24.661,28.9V9.474H6.512ZM26.174,4.619H20.88L19.368,3H11.806L10.293,4.619H5V7.856H26.174Z" transform="translate(10903 5329)" fill="#9b6f5f"/>
+  </g>
+</svg>

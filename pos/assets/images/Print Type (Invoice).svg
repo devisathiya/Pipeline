@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Print_Type_Invoice_" data-name="Print Type (Invoice)" transform="translate(-973 -922)">
+    <rect id="Rectangle_18486" data-name="Rectangle 18486" width="40" height="40" transform="translate(973 922)" fill="none"/>
+    <g id="Group_17382" data-name="Group 17382" transform="translate(145.399 408.2)">
+      <path id="Path_61839" data-name="Path 61839" d="M854.912,558.956V560.8H835.547v-1.793c-1.639-.512-1.947-.973-1.947-2.613v-5.943a1.945,1.945,0,0,1,2.152-2.152h18.9a2.006,2.006,0,0,1,2.2,2.152v5.943C856.858,558.034,856.5,558.495,854.912,558.956Zm-16.5-7.838h-.973a.973.973,0,0,0-.973.973.93.93,0,0,0,.922.973h2a.973.973,0,1,0,0-1.947Z" transform="translate(0 -13.899)" fill="#704332"/>
+      <path id="Path_61840" data-name="Path 61840" d="M856.669,533.325h-1.947v-8.5c0-1.025.154-2.049.256-3.125H843.35a1.97,1.97,0,0,0-2.2,2.254v9.375H839.2v-9.478a3.9,3.9,0,0,1,4.047-4.047h15.215a3.871,3.871,0,1,1-.051,7.736h-.768v-1.947h.922a1.921,1.921,0,1,0-1.947-1.9v9.016A2.492,2.492,0,0,1,856.669,533.325Z" transform="translate(-2.731 0)" fill="#704332"/>
+      <path id="Path_61841" data-name="Path 61841" d="M856.531,527.5v1.844H846.9V527.5Z" transform="translate(-6.486 -3.755)" fill="#704332"/>
+      <path id="Path_61842" data-name="Path 61842" d="M846.9,536.844V535h5.738v1.844Z" transform="translate(-6.486 -7.413)" fill="#704332"/>
+      <path id="Path_61843" data-name="Path 61843" d="M851.664,544.444H846.9V542.6h4.764Z" transform="translate(-6.486 -11.12)" fill="#704332"/>
+      <path id="Path_61844" data-name="Path 61844" d="M863.018,542.6v1.844H860.2V542.6Z" transform="translate(-12.973 -11.12)" fill="#704332"/>
+      <path id="Path_61845" data-name="Path 61845" d="M863.944,536.844H862.1V535h1.844Z" transform="translate(-13.9 -7.413)" fill="#704332"/>
+    </g>
+  </g>
+</svg>
